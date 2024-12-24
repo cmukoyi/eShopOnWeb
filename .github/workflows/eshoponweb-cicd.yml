@@ -1,4 +1,6 @@
-name: eShopOnWeb Build and Test
+
+
+[![.github/workflows/eshoponweb-cicd.yml](https://github.com/cmukoyi/eShopOnWeb/actions/workflows/eshoponweb-cicd.yml/badge.svg)](https://github.com/cmukoyi/eShopOnWeb/actions/workflows/eshoponweb-cicd.yml)name: eShopOnWeb Build and Test
 
 #Triggers (uncomment line below to use it)
 #on: [push, workflow_dispatch]
